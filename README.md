@@ -11,7 +11,4 @@ second commit master
 
 second commit dev branch
 
-
-
-
-Creating  a new Branch Features * simple for simple111
+Creating  a new Branch Features for simple11
